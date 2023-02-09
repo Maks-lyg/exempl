@@ -1,0 +1,15 @@
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\bin\Debug\net6.0\EXEMPLE.exe
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\bin\Debug\net6.0\EXEMPLE.deps.json
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\bin\Debug\net6.0\EXEMPLE.runtimeconfig.json
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\bin\Debug\net6.0\EXEMPLE.dll
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\bin\Debug\net6.0\EXEMPLE.pdb
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.csproj.AssemblyReference.cache
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.AssemblyInfoInputs.cache
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.AssemblyInfo.cs
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.csproj.CoreCompileInputs.cache
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.dll
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\refint\EXEMPLE.dll
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.pdb
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\EXEMPLE.genruntimeconfig.cache
+C:\Users\Maks-\УЧЕБА\C#\EXEMPLE\obj\Debug\net6.0\ref\EXEMPLE.dll
